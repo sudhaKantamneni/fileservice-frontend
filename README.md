@@ -1,1 +1,15 @@
-# fileservice-frontend
+
+
+
+
+Install
+---
+
+`npm install`
+
+
+
+Usage
+---
+
+`npm start`
